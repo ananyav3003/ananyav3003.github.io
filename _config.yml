@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ananya Venkatraman | Psychology Research Student"
+title                    : "Ananya Venkatramanan | Psychology Research Student"
 title_separator          : "-"
 name                     : &name "ANANYA VENKATRAMANAN"
 description              : "MSc Psychology Research Methods student at the University of Nottingham, specialising in quantitative research methods and data science."
