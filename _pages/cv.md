@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Psychology Research Methods, University Of Nottingham, 2026
-* B.Sc(Hons). in Psychology (Minor Biology) SAI University Chennai, 2012 - Gold Medallist 
+* B.Sc(Hons). in Psychology (Minor Biology) SAI University Chennai, 2012 - Gold Medallist,2025
 
 Work experience
 ======
