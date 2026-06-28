@@ -17,9 +17,8 @@ Education
 Work experience
 ======
 * 10/2025 - Present : Research Intern,
-   * University of Nottingham 
-   * Location : Nottingham, England, United Kingdom · On-site  
-   * Analyzed focus group data to identify barriers in assessment for neuro divergent students
+   * University of Nottingham ,Nottingham, England, United Kingdom · On-site 
+   * Analyze focus group data to identify barriers in assessment for neuro divergent students
    * Generating insights to inform inclusive exam design and accessibility improvements
    * Synthesizing qualitative data into clear, actionable recommendations for stakeholders
 
@@ -30,7 +29,7 @@ Work experience
   * Contributing to client-facing deliverables and presenting findings to stakeholders
     
 * 08/2024 - 12/2024: TEACHING ASSISTANT, Social Neuroscience
-  * SAI University. Chennai,India
+  * SAI University. Chennai, India
   * Managed course Social Neuroscience for sophomore Psychology students
   •	Assisted instructor in creating lesson plans and providing instructional materials.
   •	Provided one-on-one and group support for students.
@@ -39,7 +38,7 @@ Work experience
   •	Graded assignments, tests and papers according to instructor's instructions.
 
 * 09/2023 - 05/2024: TEACHING ASSISTANT, Frontiers,
-  * SAI University,Chennai,India
+  * SAI University,Chennai, India
   * Helped design and teach foundational course, Frontiers, for freshman class (70+ students).
   •	Responsible for scheduling lectures in communication with faculty members and international speakers.
   •	Conducted sessions on assigned reading materials for students, mediating lectures, and managing technical difficulties.
@@ -47,7 +46,7 @@ Work experience
   •	Maintained efficient line of communication between faculty and students to convey feedback and queries.
 
 * 06/2023 - 05/2024: Psychology Research Intern
-  * SAI University,Chennai,India
+  * SAI University,Chennai, India
   * Title: Role of perceived injustice and group efficacy as a function of in-group identity in predicting collective action tendency         towards low-caste communities in India (under review)
   •	Developed research hypothesis and methodology, and designed survey on Qualtrics.
   •	Conducted literature reviews to identify key areas for further research.
