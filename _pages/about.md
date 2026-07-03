@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 ---
-permalink: /
-title: "About Me"
 ---
 
 I am an MSc Psychology Research Methods student at the University of Nottingham, graduating in 2026. My journey into psychology began with a simple question: *How do we really see each other?*
