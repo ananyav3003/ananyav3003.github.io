@@ -10,7 +10,7 @@ layout: single
 
 ### The Question
 
-Why do we sometimes struggle to recognise faces from other ethnic backgrounds? My dissertation explores the interplay between **social contact**, **processing depth**, and **Own-Race Bias**—a well-documented phenomenon where people are better at recognising faces from their own racial group than from others. 
+Why do we sometimes struggle to recognise faces from other ethnic backgrounds? My dissertation explores the interplay between **social contact**, **processing depth**, and **Own-Race Bias**—a well-documented phenomenon where people are better at recognising faces from their own racial group than from others.
 
 I am particularly interested in whether meaningful intergroup contact can *reduce* this bias, and how the way we process faces (holistically vs. analytically) influences recognition accuracy.
 
