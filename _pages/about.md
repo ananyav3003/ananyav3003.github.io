@@ -1,13 +1,6 @@
 ---
 permalink: /
-title: "About Me "
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
----
+title: "About Me"
 ---
 
 I am an MSc Psychology Research Methods student at the University of Nottingham, graduating in 2026. My journey into psychology began with a simple question: *How do we really see each other?*
@@ -21,4 +14,3 @@ Beyond the numbers, I care deeply about *applied* impact. Whether I am analysing
 Currently, I am actively seeking **Research Assistant** roles in UK universities, charities, or market research firms, with a long-term aspiration to pursue a PhD. I am eligible for the UK Graduate Route visa, meaning I can work full-time immediately without employer sponsorship for up to 2 years.
 
 If you are looking for a researcher who combines technical rigour with a genuine curiosity about people, I would love to hear from you.
-
