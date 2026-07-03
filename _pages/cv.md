@@ -1,15 +1,4 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
----
 title: "CV"
 permalink: /cv/
 layout: single
@@ -36,34 +25,44 @@ GPA: 9.63/10 | Gold Medalist
 
 ## Experience
 
-**Student Consultant**, Practera (Apr 2026)  Nottingham, UK
-- Collaborating in a team to deliver a consulting project for a startup, analysing industry trends and growth opportunities
-- Conducting research and synthesising insights into astructured report with strategic recommendations
-- Contributingtoclient-facing deliverables and presenting findings to stakeholders
+**Student Consultant**, Practera (Apr 2026)  
+Nottingham, UK
 
-**Research Intern**, University of Nottingham (Oct 2025–Present),Nottingham UK
-- Analysed focus group data to identify barriers in assessment for neuro divergent students
+- Collaborating in a team to deliver a consulting project for a startup, analysing industry trends and growth opportunities
+- Conducting research and synthesising insights into a structured report with strategic recommendations
+- Contributing to client-facing deliverables and presenting findings to stakeholders
+
+**Research Intern**, University of Nottingham (Oct 2025–Present)  
+Nottingham, UK
+
+- Analysed focus group data to identify barriers in assessment for neurodivergent students
 - Generating insights to inform inclusive exam design and accessibility improvements
-- Synthesising qualitative data into clear, actionable recommendations for stakeholder
-  
-**Peer Tutor**, Sai University (Aug 2024–Dec 2024), Chennai, INDIA
+- Synthesising qualitative data into clear, actionable recommendations for stakeholders
+
+**Peer Tutor**, Sai University (Aug 2024–Dec 2024)  
+Chennai, India
+
 - Supported the design and delivery of 2 foundational undergraduate courses for 70+ students
-- Providedstructured one-to-one and small-group academic support
+- Provided structured one-to-one and small-group academic support
 - Simplified complex concepts for diverse learning needs
-  
-**Research Intern**, Sai University (Jun 2023–May 2024). Chennai, INDIA
-- Designed and deployed surveys, collected and analysed data using SPSS
+
+**Research Intern**, Sai University (Jun 2023–May 2024)  
+Chennai, India
+
+- Designed and deployed surveys; collected and analysed data using SPSS
 - Synthesised research findings to support data-driven conclusions
-- Collaborated within a teamtodeliver a full research report to deadline
+- Collaborated within a team to deliver a full research report to deadlines
+
 ---
 
- ## Extracurriculars
--  Volunteer, Nottingham Science Fair (2026)
--  Core committee member,Animal Welfare Committee(2024)
--  President, Art Club (2022)
--  Member,University Election Commission (2022)
--  Founding Editor, Zeitgeist (student-led publication) (2022)
--  Volunteer, refugee awareness program ’Rethinking Refugees: Azadi to coexist’ 
+## Extracurriculars
+
+- Volunteer, Nottingham Science Fair (2026)
+- Core committee member, Animal Welfare Committee (2024)
+- President, Art Club (2022)
+- Member, University Election Commission (2022)
+- Founding Editor, Zeitgeist (student-led publication) (2022)
+- Volunteer, refugee awareness program 'Rethinking Refugees: Azadi to Coexist'
 
 ---
 
@@ -81,4 +80,3 @@ GPA: 9.63/10 | Gold Medalist
 - Gold Medalist, Sai University
 - IELTS: 8.5 | GRE: Quant 149, Verbal 161
 - Young Writer Award (National-level)
-
