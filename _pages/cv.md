@@ -36,14 +36,34 @@ GPA: 9.63/10 | Gold Medalist
 
 ## Experience
 
-**Student Consultant**, Practera (Apr 2026)  
-Nottingham, UK
+**Student Consultant**, Practera (Apr 2026)  Nottingham, UK
+- Collaborating in a team to deliver a consulting project for a startup, analysing industry trends and growth opportunities
+- Conducting research and synthesising insights into astructured report with strategic recommendations
+- Contributingtoclient-facing deliverables and presenting findings to stakeholders
 
-**Research Intern**, University of Nottingham (Oct 2025–Present)
+**Research Intern**, University of Nottingham (Oct 2025–Present),Nottingham UK
+- Analysed focus group data to identify barriers in assessment for neuro divergent students
+- Generating insights to inform inclusive exam design and accessibility improvements
+- Synthesising qualitative data into clear, actionable recommendations for stakeholder
+  
+**Peer Tutor**, Sai University (Aug 2024–Dec 2024), Chennai, INDIA
+- Supported the design and delivery of 2 foundational undergraduate courses for 70+ students
+- Providedstructured one-to-one and small-group academic support
+- Simplified complex concepts for diverse learning needs
+  
+**Research Intern**, Sai University (Jun 2023–May 2024). Chennai, INDIA
+- Designed and deployed surveys, collected and analysed data using SPSS
+- Synthesised research findings to support data-driven conclusions
+- Collaborated within a teamtodeliver a full research report to deadline
+---
 
-**Peer Tutor**, Sai University (Aug 2024–Dec 2024)
-
-**Research Intern**, Sai University (Jun 2023–May 2024)
+ ## Extracurriculars
+-  Volunteer, Nottingham Science Fair (2026)
+-  Core committee member,Animal Welfare Committee(2024)
+-  President, Art Club (2022)
+-  Member,University Election Commission (2022)
+-  Founding Editor, Zeitgeist (student-led publication) (2022)
+-  Volunteer, refugee awareness program ’Rethinking Refugees: Azadi to coexist’ 
 
 ---
 
