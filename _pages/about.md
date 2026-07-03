@@ -7,16 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an MSc Psychology Research Methods student at the University of Nottingham, graduating in 2026. I am a quantitative researcher with a passion for applying rigorous statistical techniques to answer meaningful questions in mental health and developmental psychology.
+---
+permalink: /
+title: "About Me"
+---
 
-My methodological toolkit is the core of my identity as a researcher. I am proficient in **R**, **Python**, **SPSS**, and **NVivo**, with advanced training in **Multilevel Modelling**, **Bayesian statistics**, **Factor Analysis**, and **Systematic Reviews**. I view my MSc dissertation not just as a thesis, but as a complete project lifecycle—from ethical approval and participant recruitment, through to data cleaning, complex statistical modelling, and academic write-up.
+I am an MSc Psychology Research Methods student at the University of Nottingham, graduating in 2026. My journey into psychology began with a simple question: *How do we really see each other?*
 
-**My current research focus:**
-My dissertation applies multilevel modelling to understand [insert your dissertation topic here briefly, e.g., "the longitudinal relationship between sleep quality and emotional regulation in university students"]. I am particularly interested in how data-driven methodologies can improve early intervention strategies in educational and clinical settings.
+That question led me to my current dissertation, where I am investigating Own-Race Bias—exploring how social contact and processing depth influence face recognition. It is a topic that sits at the intersection of cognition, social psychology, and inclusion, and it reflects what drives me as a researcher: understanding human behaviour through rigorous, data-driven methods.
 
-**What I am looking for:**
-I am actively seeking **Research Assistant (RA)** roles in UK universities, charities, or market research firms, with a long-term goal of pursuing a PhD funded by the ESRC. I am eligible for the UK Graduate Route visa, meaning I can work full-time immediately without employer sponsorship for up to 2 years.
+I bring a strong quantitative toolkit to every project I touch. I am proficient in **R**, **SPSS**, **MATLAB**, and **PsychoPy**, with hands-on experience designing behavioural experiments, conducting statistical analysis, and synthesising qualitative data into actionable insights. My training at Nottingham has deepened my expertise in research design, systematic reviews, and advanced statistical modelling.
 
-If you are working with longitudinal data, complex survey designs, or need a researcher who can bridge quantitative rigor with psychological theory, I would love to connect.
+Beyond the numbers, I care deeply about *applied* impact. Whether I am analysing focus group data to make university assessments more inclusive for neurodivergent students, or consulting with startups on growth strategies, I am motivated by the same goal: using evidence to create better systems, better organisations, and better outcomes for people.
 
+Currently, I am actively seeking **Research Assistant** roles in UK universities, charities, or market research firms, with a long-term aspiration to pursue a PhD. I am eligible for the UK Graduate Route visa, meaning I can work full-time immediately without employer sponsorship for up to 2 years.
+
+If you are looking for a researcher who combines technical rigour with a genuine curiosity about people, I would love to hear from you.
 
