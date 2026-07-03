@@ -58,6 +58,7 @@ Nottingham, UK
 
 ## Accomplishments
 
+- Gold Medalist, Sai University
 - IELTS: 8.5 | GRE: Quant 149, Verbal 161
 - Young Writer Award (National-level)
-- Gold Medalist, Sai University
+
