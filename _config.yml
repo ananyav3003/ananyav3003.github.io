@@ -12,34 +12,35 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ananya Venkatramanan | Psychology Research Student"
 title_separator          : "-"
 name                     : &name "Ananya Venkatramanan"
-description              : "MSc Psychology Research Methods student at the University of Nottingham, specialising in quantitative research methods and data science."
-url                      : https://ananyav3003.github.io
-baseurl                  : ""
-repository               : "ananyav3003/ananyav3003.github.io"
+description              : &description "MSc Psychology Research Methods student at the University of Nottingham. Investigating Own-Race Bias through behavioural experiments. Skilled in R, SPSS, MATLAB, and PsychoPy."
+url                      : https://ananyav3003.github.io 
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               :  "ananyav3003/ananyav3003.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "ANANYA"
+  avatar           : "images/profile.png"
+  name             : "Ananya"
   pronouns         : "she/her"  
-  bio              : "MSc Psychology Research Methods student at the University of Nottingham. Investigating Own-Race Bias through behavioural experiments. Skilled in R, SPSS, MATLAB, and PsychoPy. Passionate about inclusive research and evidence-based impact."  location         : "Nottingham, United Kingdom"
+  bio              : "MSc Psychology Research Methods student at the University of Nottingham. Investigating Own-Race Bias through behavioural experiments. Skilled in R, SPSS, MATLAB, and PsychoPy. Passionate about inclusive research and evidence-based impact."
+  location         : "Nottingham, United Kingdom"
   employer         : "University of Nottingham (MSc Student)"
   uri              : # URL
-  email            : "lpxav1@nottingham.ac.uk" 
+  email            : "lpxav1@nottingham.ac.uk"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -49,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ananyav3003"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "ananya-venkatramanan-91a176291"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
