@@ -22,7 +22,7 @@ repository               :  "ananyav3003/ananyav3003.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Ananya"
   pronouns         : "she/her"  
   bio              : "MSc Psychology Research Methods student at the University of Nottingham. Investigating Own-Race Bias through behavioural experiments. Skilled in R, SPSS, MATLAB, and PsychoPy. Passionate about inclusive research and evidence-based impact."
