@@ -46,7 +46,6 @@ layout: single
 ---
 
 ## Teaching Philosophy
-
 My approach to teaching is grounded in **accessibility and engagement**. I believe that complex ideas become meaningful when they are connected to real-world experiences and presented with clarity and enthusiasm. Whether I am simplifying statistical concepts for undergraduates or explaining face recognition research to public audiences, my goal is to make learning an active, inclusive, and empowering process.
 
 I am particularly passionate about:
