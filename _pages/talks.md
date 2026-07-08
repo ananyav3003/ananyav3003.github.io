@@ -18,7 +18,8 @@ layout: single
 ---
 ## Recent Talks
 
-### Bi-Annual Social Identity Meeting (July 2026)
+### Bi-Annual Social Identity Meeting (July 2026
+**Organized by  The School of Psychology at the University of Kent, and Dept.of Psychological Science at Northern Arizona University**
 **Canterbury, UK**
 
 *Not Man Enough in Gender Identity Threat in Moral Evaluations and Attitudes Towards Transwomen in India*
