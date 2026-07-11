@@ -26,7 +26,7 @@ layout: single
 
 - Presenting my research on the topic above
 
-![My id card at Social Identity Confernece](/images/kent-conference-presentation.jpg)
+![My id card at Social Identity Confernece](/images/ananya_social_identity_meeting_toload.JPG)
 
 
 ---
