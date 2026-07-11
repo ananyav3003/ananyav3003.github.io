@@ -24,7 +24,10 @@ layout: single
 
 *Not Man Enough in Gender Identity Threat in Moral Evaluations and Attitudes Towards Transwomen in India*
 
-- Presenting my research on the topic above 
+- Presenting my research on the topic above
+
+![My id card at Social Identity Confernece](/images/kent-conference-presentation.jpg)
+
 
 ---
 
