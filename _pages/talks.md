@@ -27,7 +27,7 @@ layout: single
 - Presenting my research on the topic above
 
 <figure>
-  <img src="/images/ananya_social_identity_meeting_toload.JPG" alt="Presenting at the Bi-Annual Social Identity Meeting" style="max-width: 600px; width: 70%; height: auto; border-radius: 8px;">
+  <img src="/images/ananya_social_identity_meeting_toload.JPG" alt="My Id card for Bi-Annual Social Identity Meeting" style="max-width: 600px; width: 60%; height: auto; border-radius: 8px;">
   <figcaption>Presenting my research at the Bi-Annual Social Identity Meeting, University of Kent, Canterbury.</figcaption>
 </figure>
 
