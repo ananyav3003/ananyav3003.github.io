@@ -6,7 +6,7 @@ layout: single
 
 ## MSc Dissertation: Investigating Own-Race Bias
 
-**Supervisor:** [Dr. Larissa Szymanek] | **University of Nottingham, 2025–2026**
+**Supervisor:** Dr. Larissa Szymanek | **University of Nottingham, 2025–2026**
 
 ### The Question
 
