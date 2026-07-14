@@ -11,6 +11,17 @@ I bring a strong quantitative toolkit to every project I touch. I am proficient 
 
 Beyond the numbers, I care deeply about *applied* impact. Whether I am analysing focus group data to make university assessments more inclusive for neurodivergent students, or consulting with startups on growth strategies, I am motivated by the same goal: using evidence to create better systems, better organisations, and better outcomes for people.
 
-Currently, I am actively seeking **Research Assistant** roles in UK universities, charities, or market research firms, with a long-term aspiration to pursue a PhD. I am eligible for the UK Graduate Route visa, meaning I can work full-time immediately without employer sponsorship for up to 2 years.
+Currently, I am actively seeking **Research Assistant** roles in UK universities, charities, or market research firms, with a long-term aspiration to pursue a PhD. I am eligible for the UK Graduate Route visa, meaning I can work full-time immediately without employer sponsorship for up to 2 years
+
+markdown 
 
 If you are looking for a researcher who combines technical rigour with a genuine curiosity about people, I would love to hear from you.
+
+## 📊 Site Visitors
+
+👀 Total site visitors: [View live stats](https://cloud.umami.is/share/rzHIRieGJBb7GgJX/ananyav3003.github.io)
+
+*Last updated: July 2026*
+
+
+
