@@ -18,17 +18,17 @@ layout: single
 ---
 ## Recent Talks
 
-### Bi-Annual Social Identity Meeting (July 2026
+### Bi-Annual Social Identity Meeting (7-8 of July 2026)
 **Organized by  The School of Psychology at the University of Kent, and Dept.of Psychological Science at Northern Arizona University**
 **Canterbury, UK**
 
 *Not Man Enough in Gender Identity Threat in Moral Evaluations and Attitudes Towards Transwomen in India*
-
-- Presenting my research on the topic above
-
+- Presented findings from an experimental study examining the causal role of gender identity threat in anti-transgender prejudice  among cisgender Indian men.
+- Discussed implications for understanding identity threat and prejudice in a non-WEIRD cultural context.
+- Communicated research findings to an international audience of psychology researchers, engaging with questions on study design, theory, and implications.
 <figure>
   <img src="/images/ananya_social_identity_meeting_toload.JPG" alt="My Id card for Bi-Annual Social Identity Meeting" style="max-width: 600px; width: 60%; height: auto; border-radius: 8px;">
-  <figcaption>Presenting my research at the Bi-Annual Social Identity Meeting, University of Kent, Canterbury.</figcaption>
+  <figcaption>Entry Card at the Bi-Annual Social Meeting, University of Kent, Canterbury.</figcaption>
 </figure>
 
 
