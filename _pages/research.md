@@ -36,7 +36,7 @@ Understanding Own-Race Bias has real-world implications—from improving eyewitn
 
 The full analysis pipeline (data cleaning, visualisation, and statistical models) is available on my GitHub:
 
-#---[Link to your repository once you upload your code]
+!--- [Link to your repository once you upload your code]
 
 ---
 
