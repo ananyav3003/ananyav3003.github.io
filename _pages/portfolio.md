@@ -3,9 +3,23 @@ title: "Portfolio"
 permalink: /portfolio/
 layout: single
 ---
+## Nottingham Contemporary · Internship
+** Development Intern
+Aug 2026 - Present · 2 mos
+Nottingham, England, United Kingdom · On-site
 
-## Consulting Project: Startup Growth Strategy
-
+- Maintaining and analysing constituent data within a CRM system to support fundraising, engagement, and organisational decision-making.
+- Conducting prospect research and organising stakeholder information to support fundraising activities.
+- Identifying opportunities to improve data quality and support efficient data management processes.
+- Copywriting for exhibition brochures and marketing materials, helping communicate exhibition content to public audiences.
+**Skills Demonstrated:**
+ -  Project Management
+ -  Customer Relationship Management (CRM)
+ -  Stakeholder Management
+ -  Data Analysis
+ -  Data Management
+ -  Copywriting 
+   ## Consulting Project: Startup Growth Strategy
 **Student Consultant, Practera** (Apr 2026)  
 Nottingham, UK
 
