@@ -12,6 +12,7 @@ Nottingham, England, United Kingdom · On-site
 - Conducting prospect research and organising stakeholder information to support fundraising activities.
 - Identifying opportunities to improve data quality and support efficient data management processes.
 - Copywriting for exhibition brochures and marketing materials, helping communicate exhibition content to public audiences.
+  
 **Skills Demonstrated:**
  -  Project Management
  -  Customer Relationship Management (CRM)
