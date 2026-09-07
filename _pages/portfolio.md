@@ -18,7 +18,7 @@ Nottingham, England, United Kingdom · On-site
  -  Customer Relationship Management (CRM)
  -  Stakeholder Management
  -  Data Analysis
- -  Data Management
+ -  Database Management
  -  Copywriting 
    ## Consulting Project: Startup Growth Strategy
 **Student Consultant, Practera** (Apr 2026)  
