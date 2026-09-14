@@ -26,7 +26,7 @@ GPA: 9.63/10 | Gold Medalist
 ## Experience
 
 **Development Intern** Nottingham Contemporary · Internship
-Aug 2026 - Sept 2026 · 2 Months
+Aug 2026 - Present · 2 Months
 Nottingham, England, United Kingdom · On-site
 
 - Maintaining and analysing constituent data within a CRM system to support fundraising, engagement, and organisational decision-making.
