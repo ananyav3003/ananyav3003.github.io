@@ -25,6 +25,15 @@ GPA: 9.63/10 | Gold Medalist
 
 ## Experience
 
+**Development Intern** Nottingham Contemporary · Internship
+Aug 2026 - Sept 2026 · 2 Months
+Nottingham, England, United Kingdom · On-site
+
+- Maintaining and analysing constituent data within a CRM system to support fundraising, engagement, and organisational decision-making.
+- Conducting prospect research and organising stakeholder information to support fundraising activities.
+- Identifying opportunities to improve data quality and support efficient data management processes.
+- Copywriting for exhibition brochures and marketing materials, helping communicate exhibition content to public audiences.
+
 **Student Consultant**, Practera (Apr 2026)  
 Nottingham, UK
 
