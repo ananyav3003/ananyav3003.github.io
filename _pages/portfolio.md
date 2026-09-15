@@ -124,6 +124,6 @@ Chennai, India
 
 Interested in collaborating or learning more about my work? Feel free to reach out:
 
-📧 **Email:** [lpxav1@nottingham.ac.uk](mailto:lpxav1@nottingham.ac.uk)  
+📧 **Email:** [ananya.v.3003@gmail.com)  
 🔗 **GitHub:** [github.com/ananyav3003](https://github.com/ananyav3003)  
 🌐 **Portfolio:** [ananyav3003.github.io](https://ananyav3003.github.io)
