@@ -4,18 +4,6 @@ permalink: /talks/
 layout: single
 ---
 
-## Upcoming Talks
-
-### Nottingham Psychology Postgraduate Conference (2026)
-**Nottingham, UK**
-
-*Investigating Own-Race Bias: Methods and Preliminary Findings*
-
-- Presenting my MSc dissertation research on Own-Race Bias
-- Exploring the influence of social contact and processing depth on face recognition
-- Sharing methodological insights from behavioural experiments using PsychoPy
-
----
 ## Recent Talks
 
 ### Bi-Annual Social Identity Meeting (7-8 of July 2026)
