@@ -2,21 +2,15 @@
 permalink: /
 title: "About Me"
 ---
+I recently finished my MSc in Psychology Research Methods at the University of Nottingham with a Merit. I’m currently applying for the UK Graduate Visa, which means I’ll have 2 years of full working rights in the UK and won’t need any sponsorship from an employer.
 
-I am an MSc Psychology Research Methods student at the University of Nottingham, graduating in 2026. My journey into psychology began with a simple question: *How do we really see each other?*
+My background is a mix of psychology and data. I’m comfortable doing both qualitative and quantitative research, and I’ve had hands-on experience using CRM systems to manage data and support fundraising. During my Master's, I got a Distinction-level grade (70%) in Neuropsychology, and I managed my own 60-credit dissertation from start to finish. Before that, I won the Gold Medal for my undergraduate degree at Sai University.
 
-That question led me to my current dissertation, where I am investigating Own-Race Bias—exploring how social contact and processing depth influence face recognition. It is a topic that sits at the intersection of cognition, social psychology, and inclusion, and it reflects what drives me as a researcher: understanding human behaviour through rigorous, data-driven methods.
+I’ve put these skills to use in the UK through a few internships—like working with CRM data at Nottingham Contemporary, and analysing focus group data at the University of Nottingham to help make exams more accessible for neurodivergent students.
 
-I bring a strong quantitative toolkit to every project I touch. I am proficient in **R**, **SPSS**, **MATLAB**, and **PsychoPy**, with hands-on experience designing behavioural experiments, conducting statistical analysis, and synthesising qualitative data into actionable insights. My training at Nottingham has deepened my expertise in research design, systematic reviews, and advanced statistical modelling.
-
-Beyond the numbers, I care deeply about *applied* impact. Whether I am analysing focus group data to make university assessments more inclusive for neurodivergent students, or consulting with startups on growth strategies, I am motivated by the same goal: using evidence to create better systems, better organisations, and better outcomes for people.
-
-Currently, I am actively seeking **Research Assistant** roles in UK universities, charities, or market research firms, with a long-term aspiration to pursue a PhD. I am eligible for the UK Graduate Route visa, meaning I can work full-time immediately without employer sponsorship for up to 2 years
+Right now, I’m looking for roles in Research, Data Analysis, or Project Support where I can use my skills to help a team make good, evidence-based decisions. 
 
 
-
-If you are looking for a researcher who combines technical rigour with a genuine curiosity about people, I would love to hear from you.
-markdown 
 <hr>
 
 ## 📊 Site Visitors
